@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Angelica",
+    "apellido": "Morocho",
+    "email": "nhkjaska@",
+    "carnet": "1230",
+    "notas": {
+      "Mate": [
+        10.0
+      ]
+    },
+    "materias": [
+      "Mate"
+    ]
+  }
+]
